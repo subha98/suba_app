@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav {
+    background-color: black; 
+    list-style-type: none;
+    text-align: center;
+    margin: 10 px;
+    padding: 0 ;
+  }
+  
+  nav li {
+    display: inline-block;
+    font-size: 250px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+  }
+  a {
+    margin: auto;
+    width: 10%;
+    padding: 1px;
+  }
+  i {
+   
+    cursor: pointer;
+   font-size: 24px;
+  }
